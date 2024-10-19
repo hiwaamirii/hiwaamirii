@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hiwa Amiri</h1>
+<h1 align="center">Hiwa Amiri</h1>
 <h3 align="center">I'm a Flutter developer and I'm so interested in Dart/Flutter, Presently, I'm developing apps with Flutter</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://t.me/themaincoder" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_MYWJx5q1-4U1Di_7PvYt0MVPr7QHQQOsQ&s" alt="telegram" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/hiwa-amiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
